@@ -1,0 +1,6 @@
+{
+  "name": "Brewed & Co.",
+  "description": "An elegant, highly immersive website for an urban artisan coffee house, featuring a tactile-organic glassmorphism style, interactive 3D cup simulator, dynamic coffee configurator, live reservations, and scroll animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
