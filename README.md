@@ -1,12 +1,8 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/65a01643-3c8c-4a6d-bdd9-580f76f48302
+View app in Netlify: https://brewed-and-co.netlify.app/
 
 ## Run Locally
 
